@@ -70,12 +70,6 @@ This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any
 
 Feel free pull-request your patches and fixes.
 
-
-## Thanks
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
-
 ## Copyright & License
 
 Copyright (C) 2015-2021 - Released under the MIT License.
