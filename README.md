@@ -1,4 +1,4 @@
-# Sustain
+#  asalazar516.github.io
 
 [![Build Status](https://github.com/jekyllt/sustain/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/sustain/actions/workflows/jekyll_build.yml)
 [![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/sustain)
@@ -8,8 +8,9 @@ Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jeky
 hosted in [Github pages](https://pages.github.com/).
 
 
-## View the live demo
+This is repo is a fork to [Sustain](https://github.com/jekyllt/sustain)
 
+<<<<<<< HEAD
 [Sustain Live Demo](https://jekyllt.github.io/sustain)
 
 
@@ -70,6 +71,10 @@ This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any
 
 Feel free pull-request your patches and fixes.
 
+=======
+
+
+>>>>>>> 7b9282894c607323c6f61e595208e6d3c55a8071
 ## Copyright & License
 
 Copyright (C) 2015-2021 - Released under the MIT License.
