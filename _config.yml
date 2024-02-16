@@ -12,20 +12,22 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+baseurl: /asalazar516/
+title: Adrian Salazar
+author: Adrian Salazar
 description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
-github: jekyllt/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-medium: username #e.g: NobelPeaceOslo
+avatar: profile.jpg
+email: asalazar51694@gmail.com
+github: asalazar516 # username
+# twitter: username
+linkedin: asalazar516
+itchio: one-person
+# stackoverflow: username   #e.g: users/2735833/proton1h1
+# medium: username #e.g: NobelPeaceOslo
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+# disqus: username
+# google_analytics: UA-69391421-1
+resume: Resume_Adrian_Salazar.pdf
 
 
 # needed for travis-ci build
